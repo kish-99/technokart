@@ -1,0 +1,2 @@
+-- CREATE TABLE employee(invoiceid INTEGER NOT NULL PRIMARY KEY, amount INTEGER NOT NULL, date DATE );
+
